@@ -1,0 +1,35 @@
+.container{
+    margin-bottom: 30px;
+}
+.buy-button{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.para{
+    color: gray;
+}
+.card{
+    border:none;
+    box-shadow: 10px 10px 10px lightgray;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.link{
+    text-decoration: none;
+    color: tomato;
+    
+}
+.pale{
+    width: 600px;
+}
+.middle-pic{
+    height: 150px;
+    width: 150px;
+    margin-top: 50px;
+}
